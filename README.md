@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biret Benoit</h1>
 <h3 align="center">👀 I'm interested in blockchain technology, particularly Polkadot, Monero, Ethereum, Bitcoin and Ternoa.</h3>
 
-<p align="left"> <a href="https://twitter.com/benbiret" target="blank"><img src="https://img.shields.io/twitter/follow/benbiret?logo=twitter&style=for-the-badge" alt="benbiret" /></a> </p>
-
 - 🌱 I’m currently learning **Blockchain consultant at Alyra**
 
 - 🤝 I’m looking for help with [Ternoa](https://www.ternoa.network/)
