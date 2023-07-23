@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain consultant at Alyra**
 
-- 🤝 I’m looking for help with [Ternoa](https://www.ternoa.network/)
+- 🤝 I help with [Ternoa](https://www.ternoa.network/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
